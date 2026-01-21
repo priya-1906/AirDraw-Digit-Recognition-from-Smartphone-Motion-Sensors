@@ -1,9 +1,4 @@
-"""Model definitions for the IMU project.
 
-Only two models are provided:
-1) 1D CNN for feature extraction
-2) 1D CNN + GRU for temporal modeling
-"""
 
 from __future__ import annotations
 
